@@ -1,0 +1,128 @@
+Cole Albon 
+San Francisco 
+(415) 672-1648 
+cole.albon@gmail.com 
+
+EXPERIENCE
+
+Javascript/Node.js developer:
+Freelancer
+San Francisco, CA
+January 2015 - current
+- Built a library to facilitate date bound accounting integration with bitcoin.
+- Used koa, react.js, and socket.io to produce animated real time ticker price mashup.
+- Used various authenticated, socket bound or restful sources to do mashups.
+- Contributed to society via github: https://github.com/colealbon
+
+Senior Warehouse Analyst/Developer
+mFoundry (FIS Global)
+San Francisco, CA
+April 2012 - December 2014
+- Worked on large migration from MySQL/Tableau to enterprise level BI vendor platform. Contributed to ParAccel (Redshift's database) backend and Microstrategy front end.
+- Project integrated several large siloed environments into one. Drafted the first proposal for new integration layer schema.
+- mFoundry develops and serves mobile banking applications for dozens of large banks and hundreds of small banks and credit unions. FIS Global is the world's largest financial technology provider.
+- Agile development, stack ranking, fluorescent lights, free espresso.
+- Evangelized bitcoin by placing a Lamassu vending machine on premises for two weeks. Confirmed no serious interest at any level.
+
+Database Analyst Developer
+Bold Software (LogMeIn)
+Wichita, KS
+May 2010 - April 2012
+- Brought Bold Software Marketing and Accounting from less-than-spreadmart status to interactive web based multidimensional reporting.
+- Wrote adhoc accounting queries to facilitate pro forma financials in the context of a successful corporate merger.
+- Designed and implemented data aggregation/report execution system using a open source tools. MySQL, LucidDb, Mondrian/Saiku, Pentaho.
+- Wrote SQL against extremely complex heterogeneous source data: 250 plus tables, billion plus records.
+- Implemented strict star schema back end SQL database with Mondrian/Saiku and Excel on front end.
+- Developed tools using python to dynamically provision cloud servers and CDN assets. Reduced reporting hardware requirements cost by 90%.
+- Designed and built Customer Signature for Data Mining using WEKA and Tableau.
+
+Reports Developer
+Plaster Group (Bill and Melinda Gates Foundation)
+Seattle, WA
+June 2009 - December 2009
+- SSRS, TSQL Report Development.
+- Developed a C#.NET automated unit testing suite for SSRS reports.
+- Successfully evangelized proof of concept to developers, testers and development leads, but lost traction with the business community. Deployed partial project to production without a budget.
+- Developed reporting centric SQL scripts to accommodate database structure changes.
+
+BI Developer Analyst
+AK Tech Consulting (Microsoft)
+Seattle, WA
+October 2008 - May 2009
+- TSQL, SSIS, SSAS Reporting, SOAP/.Net development.
+- Reduced project complexity by removing 75% of the inherited code base.
+- Cleaned and enhanced TSQL and SSIS scripts to generate 25 Excel based field reports.
+- Brought project from cutting and pasting results from various manually run scripts to an automated SSIS solution.
+
+Reports Developer
+Adaptis
+Seattle, WA
+September 2006 - September 2008
+- Mentored a group of seasoned Oracle developers through the transition to SQL Server and Reporting Services Platform.
+- Evangelized best practices in SQL query optimization.
+- C#.NET development for automated SQL Server SSRS report generation.
+- TSQL development - stored procedures with a heavy emphasis on financial reporting and analysis.
+- Visual Basic development for integration with Perforce centric build environment.
+
+Analyst/Report Writer
+GoDaddy 
+Scottsdale, AZ
+July 2004 - February 2006
+- Performed live experiments within a large complex web site to quickly understand and establish relationships between product changes and their impact on revenue.
+- Analyst for 25 tiered hosting, email, and reseller products.
+- Wrote TSQL and Reporting Services reports to provide custom traffic and revenue analysis tools to the marketing team. Worked within very high volume SQL Server infrastructure.
+- Provided reporting against a custom Linux/MySQL defect tracking system.
+
+Account Manager
+Insight 
+Tempe, AZ
+May 2003 - February 2004
+- Generate sales of software, hardware IT solutions to small to medium-sized businesses nationwide.
+
+Account Manager
+Sigaba 
+San Mateo, CA
+July 2000 - September 2001
+- Developed and managed sales opportunities from lead to close. Penetrated several fortune 500 companies without a product to offer.
+- Wrote business requirements documentation for API level technology partnerships.
+- Wrote the company's first sales contract and the first technology partnership contract. The attorneys signed off on both without modification.
+
+Account Manager
+FloNetwork 
+San Francisco, CA
+April 1999 - July 2000
+- Landed a series of high profile advertising clients by offering novel targeted direct marketing technology.
+- Part of a startup sales team that took the company from an also-ran with a handful of clients to the market leader position within a year.
+- Created, presented and defended sophisticated ROI models to C Level Decision makers.
+- Landed 6 of the company's top 10 marquee clients.
+
+Account Manager
+Simultrans 
+San Mateo, CA
+August 1997 - April 1999
+- Presented to the Society of Technical Communicators - "Designing Websites for an International Audience".  Precursor to reactive design.
+- Sold medium to large multi-language software localization projects to Silicon Valley corporate community.
+- Highly technical consultative sales process. Top producer 120% of quota.
+
+Technical Support
+MCB Systems
+San Diego, CA
+January 1997 - August 1997
+- Technical support for TRADOS Translation Software.
+- Redesigned corporate Website, moved all functionality from direct dial BBS to "brand new" web based paradigm.
+- Bookkeeping: performed monthly account reconciliation including foreign currency transactions.
+
+EDUCATION
+ 
+Thunderbird
+Gendale, AZ
+Master of International Management
+- Financial Computer Decision Modeling courses
+- Student Council - Information Technology Committee
+- Winter semester in Moscow, Russia
+
+Arizona State University 
+Tempe, AZ
+Bachelor of Science, Business
+- PAC 10 All-American Scholar Athlete
+- Men's Gymnastics Team, ASU Student Council, Fraternity, Waiter
