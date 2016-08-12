@@ -9,9 +9,9 @@ Javascript/Node.js developer:
 Freelancer
 San Francisco, CA
 January 2015 - current
-- Built a node.js library to automate integration with bitcoin blockchain.
-- Used koa, react.js, and socket.io to produce animated real time ticker price mashup.
-- Currently building a p2p card game suite with thali cordova.
+- self funded: Built a node.js library to automate integration with bitcoin blockchain.
+- client: Used koa, react.js, and socket.io to produce animated real time ticker price mashup.
+- self funded: Currently building a p2p card game suite with thali cordova.
 - github: https://github.com/colealbon
 
 Senior Warehouse Analyst/Developer
