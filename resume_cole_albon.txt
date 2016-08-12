@@ -1,5 +1,5 @@
 Cole Albon 
-San Francisco 
+San Francisco, CA / Scottsdale, AZ
 (415) 672-1648 
 cole.albon@gmail.com 
 
@@ -9,10 +9,10 @@ Javascript/Node.js developer:
 Freelancer
 San Francisco, CA
 January 2015 - current
-- Built a library to facilitate date bound accounting integration with bitcoin.
+- Built a node.js library to automate integration with bitcoin blockchain.
 - Used koa, react.js, and socket.io to produce animated real time ticker price mashup.
-- Used various authenticated, socket bound or restful sources to do mashups.
-- Contributed to society via github: https://github.com/colealbon
+- Currently building a p2p card game suite with thali cordova.
+- github: https://github.com/colealbon
 
 Senior Warehouse Analyst/Developer
 mFoundry (FIS Global)
