@@ -1,0 +1,18 @@
+Hello,
+
+I offer about a decade of back end SQL and ancillary automation work across a handful of scripting languages.  My clients have included a broad range of companies from 20 person startups to some of the largest corporations.  
+
+I've got specific experience using python and django to datamine and repurpose the edgar online SEC filings.
+
+Recently (as in the last two years) I've focussed my efforts exclusively to orienting my skillset to a node.js/javascript/microservices platform as an alternative to the traditional big SQL database with ETL setup.
+
+If you'd like to talk,  feel free to contact me directly or forward my information.
+
+Best Regards,
+
+Cole
+
+Cole Albon
+415-672-1648
+cole.albon@gmail.com
+

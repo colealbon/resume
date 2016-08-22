@@ -5,9 +5,8 @@ cole.albon@gmail.com
 
 EXPERIENCE
 
-Javascript/Node.js developer:
-Freelancer
-San Francisco, CA
+Sabbatical, Node.js Developer
+San Francisco, CA / Scottsdale, AZ
 January 2015 - current
 - self funded: Built a node.js library to automate systems integration with bitcoin blockchain.
 - self funded: Build a node.js compliance program (code and business process). Code passed 3rd party review and submitted to FinCEN for MSB registration.
