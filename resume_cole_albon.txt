@@ -1,21 +1,30 @@
-Cole Albon 
-San Francisco, CA / Scottsdale, AZ
-(415) 672-1648 
-cole.albon@gmail.com 
+Cole Albon
+Bend, Oregon
+541-390-4407
+cole.albon@gmail.com
 
 EXPERIENCE
 
-Sabbatical, Node.js Developer
-San Francisco, CA / Scottsdale, AZ
-January 2015 - current
-- self funded: Built a node.js library to automate systems integration with bitcoin blockchain.
-- self funded: Build a node.js compliance program (code and business process). Code passed 3rd party review and submitted to FinCEN for MSB registration.
-- client: Used koa, react.js, and socket.io to produce animated real time ticker price mashup.
-- self funded: Currently building a p2p card game suite with thali cordova.
-- github: https://github.com/colealbon
+Software Engineer
+CBT Nuggets
+Bend OR,
+January 2017 - May 2019
+- Lead research and prototype development team handling cryptocurrency and decentralized applications
+- Mentor C level and developer colleagues regarding historical context and state of the art cryptocurrency concepts
+- Javascript library to augment cryptocurrency wallet with custom purchase transactions
+- Javascript library to integrate blockchain transactions into existing payment verification system
+- Prototype React/Redux front end HD wallet development
+- Prototype SQS Queue -> IPFS, blockstack, automated cryptocurrency rewards
+
+Bitcoin Dealer, Javascript freelancer/developer:
+San Francisco CA,
+January 2015 - December 2016
+- bitcoin utxo denormalizer tool: https://github.com/colealbon/blocktool
+- web components for card game: https://github.com/colealbon/branchwood
+- p2p card game (shuffle and pgp chat only so far): https://github.com/colealbon/royale
 
 Senior Warehouse Analyst/Developer
-mFoundry (FIS Global)
+mFoundry
 San Francisco, CA
 April 2012 - December 2014
 - Worked on large migration from MySQL/Tableau to enterprise level BI vendor platform. Contributed to ParAccel (Redshift's database) backend and Microstrategy front end.
@@ -25,7 +34,7 @@ April 2012 - December 2014
 - Evangelized bitcoin by placing a Lamassu vending machine on premises for two weeks. Confirmed no serious interest at any level.
 
 Database Analyst Developer
-Bold Software (LogMeIn)
+Bold Software
 Wichita, KS
 May 2010 - April 2012
 - Brought Bold Software Marketing and Accounting from less-than-spreadmart status to interactive web based multidimensional reporting.
@@ -65,7 +74,7 @@ September 2006 - September 2008
 - Visual Basic development for integration with Perforce centric build environment.
 
 Analyst/Report Writer
-GoDaddy 
+GoDaddy
 Scottsdale, AZ
 July 2004 - February 2006
 - Performed live experiments within a large complex web site to quickly understand and establish relationships between product changes and their impact on revenue.
@@ -74,13 +83,13 @@ July 2004 - February 2006
 - Provided reporting against a custom Linux/MySQL defect tracking system.
 
 Account Manager
-Insight 
+Insight
 Tempe, AZ
 May 2003 - February 2004
 - Generate sales of software, hardware IT solutions to small to medium-sized businesses nationwide.
 
 Account Manager
-Sigaba 
+Sigaba
 San Mateo, CA
 July 2000 - September 2001
 - Developed and managed sales opportunities from lead to close. Penetrated several fortune 500 companies without a product to offer.
@@ -88,7 +97,7 @@ July 2000 - September 2001
 - Wrote the company's first sales contract and the first technology partnership contract. The attorneys signed off on both without modification.
 
 Account Manager
-FloNetwork 
+FloNetwork
 San Francisco, CA
 April 1999 - July 2000
 - Landed a series of high profile advertising clients by offering novel targeted direct marketing technology.
@@ -97,7 +106,7 @@ April 1999 - July 2000
 - Landed 6 of the company's top 10 marquee clients.
 
 Account Manager
-Simultrans 
+Simultrans
 San Mateo, CA
 August 1997 - April 1999
 - Presented to the Society of Technical Communicators - "Designing Websites for an International Audience".  Precursor to reactive design.
@@ -113,7 +122,7 @@ January 1997 - August 1997
 - Bookkeeping: performed monthly account reconciliation including foreign currency transactions.
 
 EDUCATION
- 
+
 Thunderbird
 Gendale, AZ
 Master of International Management
@@ -121,7 +130,7 @@ Master of International Management
 - Student Council - Information Technology Committee
 - Winter semester in Moscow, Russia
 
-Arizona State University 
+Arizona State University
 Tempe, AZ
 Bachelor of Science, Business
 - PAC 10 All-American Scholar Athlete
