@@ -5,6 +5,11 @@ cole.albon@gmail.com
 
 EXPERIENCE
 
+Developer, Founder
+cafe-society.news
+Bend OR, June 2019 - current
+- dApp development: blockstack, react/redux, HD wallet, bitcoin, full stack
+
 Software Engineer
 CBT Nuggets
 Bend OR,
