@@ -1,14 +1,21 @@
 Cole Albon
-Bend, Oregon
+Union City, California (BART)
 541-390-4407
 cole.albon@gmail.com
 
 EXPERIENCE
 
+Contractor Developer
+SAP Labs, Mobile Programming LLC
+SRP, Palo Alto, CA
+- R&D/POC development for multivendor cloud services billing application.
+- Javascript/React
+
 Developer, Founder
-cafe-society.news
-Bend OR, June 2019 - current
-- dApp development: blockstack, react/redux, HD wallet, bitcoin, full stack
+https://cafe-society.news
+Union City, California June 2019 - current
+- dApp development: blockstack, react/redux, HD wallet, bitcoin, full stack node.js
+- https://gitlab.com/cole.albon/rssr
 
 Software Engineer
 CBT Nuggets
@@ -25,7 +32,6 @@ Bitcoin Dealer, Javascript freelancer/developer:
 San Francisco CA,
 January 2015 - December 2016
 - bitcoin utxo denormalizer tool: https://github.com/colealbon/blocktool
-- web components for card game: https://github.com/colealbon/branchwood
 - p2p card game (shuffle and pgp chat only so far): https://github.com/colealbon/royale
 
 Senior Warehouse Analyst/Developer
