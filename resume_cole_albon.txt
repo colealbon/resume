@@ -5,17 +5,18 @@ cole.albon@gmail.com
 
 EXPERIENCE
 
-Contractor Developer
-SAP Labs, Mobile Programming LLC
+Contractor, Senior Developer
+SAP Labs, Mobile Programming LLC November 2019 - current
 SRP, Palo Alto, CA
-- R&D/POC development for multivendor cloud services billing application.
-- Javascript/React
+- R&D/POC development for multivendor cloud services ERP application
+- POC was successfully converted to production
+- Typescript/React/Material UI
 
 Developer, Founder
-https://cafe-society.news
+https://cafe-society.news (navigate to performance settings to enable ML)
 Union City, California June 2019 - current
-- dApp development: blockstack, react/redux, HD wallet, bitcoin, full stack node.js
-- https://gitlab.com/cole.albon/rssr
+- dApp development: blockstack, react/hooks, HD wallet, bitcoin, full stack node.js
+- https://gitlab.com/cole.albon/news-train
 
 Software Engineer
 CBT Nuggets
@@ -38,7 +39,7 @@ Senior Warehouse Analyst/Developer
 mFoundry
 San Francisco, CA
 April 2012 - December 2014
-- Worked on large migration from MySQL/Tableau to enterprise level BI vendor platform. Contributed to ParAccel (Redshift's database) backend and Microstrategy front end.
+- Worked on large migration from MySQL/Tаbleаu to enterprise level BI vendor platform. Contributed to ParAccel (Redshift's database) backend and Micrоstrаtegy front end.
 - Project integrated several large siloed environments into one. Drafted the first proposal for new integration layer schema.
 - mFoundry develops and serves mobile banking applications for dozens of large banks and hundreds of small banks and credit unions. FIS Global is the world's largest financial technology provider.
 - Agile development, stack ranking, fluorescent lights, free espresso.
