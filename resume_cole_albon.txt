@@ -1,13 +1,14 @@
 Cole Albon
-Union City, California (BART)
+Alameda Island, California
 541-390-4407
 cole.albon@gmail.com
 
 EXPERIENCE
 
 Contractor, Senior Developer
-SAP Labs, Mobile Programming LLC November 2019 - February 2021
-SRP, Palo Alto, CA
+SAP Labs, Mobile Programming LLC
+Palo Alto, CA 
+November 2019 - February 2021
 - R&D/POC development for multivendor cloud services ERP application
 - POC was successfully converted to production, Exemplary feedback
 - Typescript/React/Material UI
