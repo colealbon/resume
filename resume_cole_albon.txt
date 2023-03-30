@@ -1,23 +1,22 @@
 Cole Albon
-Alameda Island, California
-541-390-4407
-cole.albon@gmail.com
+Emeryville, CA
+(415) 244-0162
+cole@cafe-society.news
 
 EXPERIENCE
+
+Developer/Founder, cafe-society.news:
+Emeryville, CA, February 2021 - 2023 (current)
+- Multiple POC efforts combining on-device machine learning with various decentralized platforms to facilitate collaborative news feed curation
+- keywords: stacks, nostr, solidjs, natural, lightning
 
 Contractor, Senior Developer
 SAP Labs, Mobile Programming LLC
 Palo Alto, CA 
 November 2019 - February 2021
 - R&D/POC development for multivendor cloud services ERP application
-- POC was successfully converted to production, Exemplary feedback
+- POC through version 2.0, exemplary feedback
 - Typescript/React/Material UI
-
-Developer, Founder
-https://cafe-society.news (navigate to performance settings to enable ML)
-Union City, California June 2019 - current
-- dApp development: Blockstack, React
-- https://gitlab.com/cole.albon/news-train
 
 Software Engineer
 CBT Nuggets
