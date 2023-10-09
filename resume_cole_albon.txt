@@ -1,14 +1,15 @@
 Cole Albon
 Emeryville, CA
-(415) 244-0162
+(415) 815-6133
 cole@cafe-society.news
 
 EXPERIENCE
 
 Developer/Founder, cafe-society.news:
 Emeryville, CA, February 2021 - 2023 (current)
-- Multiple POC efforts combining on-device machine learning with various decentralized platforms to facilitate collaborative news feed curation
-- keywords: stacks, nostr, solidjs, natural, lightning
+- Develop and implement modern react compatible user interface components with post redux state management and post webpack builds (solidjs and vite).
+- Aggressive profiling and front-end performance modification resulting in non-blocking orchestration of multiple disparate input feeds combined with CPU heavy processing.
+- Client side machine learning training and prediction using a modern front end stack.
 
 Contractor, Senior Developer
 SAP Labs, Mobile Programming LLC
